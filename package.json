@@ -2,7 +2,7 @@
   "name": "weather_forecast",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vladyslavzar/weather-forecast",
+  "homepage": "https://weather-forecast-nu-one.vercel.app/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.0",
     "@testing-library/jest-dom": "^5.16.3",
