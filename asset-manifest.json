@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vladyslavzar/weather-forecast/static/css/main.5cd95079.css",
-    "main.js": "/vladyslavzar/weather-forecast/static/js/main.fcd52e14.js",
-    "static/media/spinner.gif": "/vladyslavzar/weather-forecast/static/media/spinner.3a3cfde83f95b1f63dbe.gif",
-    "static/media/CLOUDY.png": "/vladyslavzar/weather-forecast/static/media/CLOUDY.fbe4a0e76164e808c905.png",
-    "static/media/SUMMER.png": "/vladyslavzar/weather-forecast/static/media/SUMMER.843252370c3fa488fd0f.png",
-    "static/media/SNOW.png": "/vladyslavzar/weather-forecast/static/media/SNOW.2bc6992a0115a627e500.png",
-    "static/media/RAIN.png": "/vladyslavzar/weather-forecast/static/media/RAIN.59acc3e8d014f4fcfef9.png",
-    "index.html": "/vladyslavzar/weather-forecast/index.html",
-    "main.5cd95079.css.map": "/vladyslavzar/weather-forecast/static/css/main.5cd95079.css.map",
-    "main.fcd52e14.js.map": "/vladyslavzar/weather-forecast/static/js/main.fcd52e14.js.map"
+    "main.css": "/static/css/main.5cd95079.css",
+    "main.js": "/static/js/main.5d430fee.js",
+    "static/media/spinner.gif": "/static/media/spinner.3a3cfde83f95b1f63dbe.gif",
+    "static/media/CLOUDY.png": "/static/media/CLOUDY.fbe4a0e76164e808c905.png",
+    "static/media/SUMMER.png": "/static/media/SUMMER.843252370c3fa488fd0f.png",
+    "static/media/SNOW.png": "/static/media/SNOW.2bc6992a0115a627e500.png",
+    "static/media/RAIN.png": "/static/media/RAIN.59acc3e8d014f4fcfef9.png",
+    "index.html": "/index.html",
+    "main.5cd95079.css.map": "/static/css/main.5cd95079.css.map",
+    "main.5d430fee.js.map": "/static/js/main.5d430fee.js.map"
   },
   "entrypoints": [
     "static/css/main.5cd95079.css",
-    "static/js/main.fcd52e14.js"
+    "static/js/main.5d430fee.js"
   ]
 }
