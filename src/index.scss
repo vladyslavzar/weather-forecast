@@ -178,3 +178,18 @@ h4{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+@media screen and (max-width: 768px){
+    .popUp{
+        width: calc(100vw - 40px) !important;
+        min-height: calc(100vh - 40px) !important;
+    }
+}
+
+@media screen and (max-height: 700px){
+    #overflow{
+        overflow-y: scroll !important;
+
+        height: calc(100vh - 100px) !important;
+    }
+}
