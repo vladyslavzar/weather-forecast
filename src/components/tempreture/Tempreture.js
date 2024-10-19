@@ -9,7 +9,7 @@ const Tempreture = () => {
     const weather = useSelector(state => state.city.weather);
 
     return (
-        <section className="tempreture" style={{backgroundImage: `url(${weather === 'Clouds' ? Clouds : weather === 'Rain' ? Rain : weather === 'Snow' ? Snow : weather === 'Sun' ? Sun : null})`}}>
+        <section className="tempreture" style={{backgroundImage: `url(${weather === 'Clouds' ? Clouds : weather === 'Rain' ? Rain : weather === 'Snow' ? Snow : weather === 'Sun' ? Sun : Snow})`}}>
             <div className="tempreture__container container">
                 <h1>{Math.round(temp)}°C</h1>
                 <h3>{weather}</h3>
